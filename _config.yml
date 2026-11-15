@@ -1,5 +1,2 @@
-title: "Dorian Zhang"
-url: "https://dorian0326.github.io"
-baseurl: ""
-
-minimal_mistakes_skin: "default"
+title: Dorian Zhang
+remote_theme: chrisrhymes/bulma-clean-theme
