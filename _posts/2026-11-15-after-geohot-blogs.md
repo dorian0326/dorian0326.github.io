@@ -1,7 +1,6 @@
 ---
 title: "After Reading geohot’s Posts from 2020–2026"
 date: 2026-11-15
-layout: home
 ---
 
 After reading these posts written by geohot, what stayed with me is not any single article, but a single recurring standard: almost every judgment eventually comes back to whether something concentrates power or disperses it.
