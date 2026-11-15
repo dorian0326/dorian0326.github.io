@@ -1,64 +1,6 @@
-# Site Settings
-title: "DZ's BLOG"
-subtitle: "I have no idea."
-name: ""
-description: ""
-
+title: "Dorian Zhang"
 url: "https://dorian0326.github.io"
 baseurl: ""
-repository: "dorian0326/dorian0326.github.io"
 
-author:
-  name: "Dorian Zhang"
-  avatar: "/assets/images/avatar.jpg"
-  bio: "Normal"
-  location: "China"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dorian0326"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/dorian0326"
-
-# Display how many articles on HOME page.
-paginate: 10
-paginate_path: "/page:num/"
-
-# default layout
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-# comments system
-comments:
-  provider: "giscus"
-  giscus:
-    repo_id: ""
-    category_id: ""
-
-# search
-search: true
-search_full_content: true
-
-# dark mode
-minimal_mistakes_skin: "dark"
-
-# menu and bar
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Archive"
-    url: /year-archive/
-  - title: "Tags"
-    url: /tags/
-  - title: "Categories"
-    url: /categories/
+minimal_mistakes_skin: "default"
+paginate: 5
