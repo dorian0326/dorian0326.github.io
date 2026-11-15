@@ -1,2 +1,4 @@
 title: Dorian Zhang
 theme: minima
+minima:
+  hide_site_feed_link: true
