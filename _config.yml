@@ -1,2 +1,8 @@
 title: Dorian Zhang
-theme: minima
+remote_theme: jekyll/minima@7e657bf7cace71dbbeddd22297a5ac4e417eb490
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: auto
